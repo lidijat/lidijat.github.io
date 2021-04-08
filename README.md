@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Data Science Portfolio
+### Lidija Turkovic
 
 You can use the [editor on GitHub](https://github.com/lidijat/lidijat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
